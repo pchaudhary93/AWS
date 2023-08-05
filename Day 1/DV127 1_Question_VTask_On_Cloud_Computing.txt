@@ -1,0 +1,61 @@
+Introduction to the CLOUD COMPUTING 
+Watch the below video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. You need to type in the Answer in the row indicated with “Ans”
+
+
+Cloud Computing Fundamentals by Suse
+https://www.youtube.com/watch?v=uroryFU78gM
+	Q1
+	What do you mean by cloud computing?
+	Ans
+	Cloud computing is a model for allowing convenient, on-demand access from anywhere, to a shared pool of computing resources. 
+
+	Q2
+	What are the main characteristics of cloud computing?
+	Ans
+	1. On-demand self-service
+2. Broad network access
+3. Resource pooling
+4. Rapid elasticity
+5. Metering
+
+	Q3
+	What are the options for cloud deployments?
+	Ans
+	Public cloud, private cloud, and hybrid cloud
+
+	Q4
+	What is private cloud?
+	Ans
+	A private cloud is a cloud computing environment dedicated to a single organization. 
+	Q5
+
+	What is public cloud?
+	Ans
+	A public cloud is an IT model where public cloud service providers make services-including compute and storage, develop-and-deploy environments, and applications-available on-demand to organizations and individuals over the public internet.
+
+	Q6
+	What is hybrid cloud?
+	Ans
+	A hybrid cloud is a mixed computing environment where applications are run using a combination of computing, storage, and services in different environments-public clouds and private clouds, including on-premises data centers or “edge” locations. 
+
+	Q7
+	What are the different types of IT services which are used in public, private, and hybrid cloud?
+	Ans
+	3 types of IT services used with public, private, and hybrid clouds are: SaaS, IaaS, and PaaS.
+
+	Q8
+	Define SaaS cloud with examples.
+	Ans
+	SaaS cloud: access to the application and little or no control over the delivery. Example is Gmail. 
+
+	Q9
+	What do you mean by Platform as a Service?
+	Ans
+	PaaS cloud give access to a software development environment to allow them to create their own cloud applications. User has access to control over the application. Example of PaaS is Cloud Foundry. 
+
+	Q10
+	What is IaaS? 
+	Ans
+	IaaS is Infrastructure as a Service. It allows users to quickly and easily provision full computing resources, including processing, storage and networks without the user having control or manage infrastructure. Example of IaaS is SUSE OpenStack Cloud. 
+	________________

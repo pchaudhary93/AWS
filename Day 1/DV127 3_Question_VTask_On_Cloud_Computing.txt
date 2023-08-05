@@ -1,0 +1,58 @@
+Introduction to the CLOUD COMPUTING 
+To watch each video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and draft minimum 10 meaningful Questions having Single Word / Single Line answer for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+Differences between Cloud Computing and Virtualization By Rackspace
+https://www.youtube.com/watch?v=14KJoDs6reg
+
+
+	Q1
+	What is virtualization?
+	Ans
+	Virtualization relies on software to simulate hardware functionality and create a virtual computer system. 
+
+	Q2
+	API stands for?
+	Ans
+	Application Programming Interface.
+
+	Q3
+	Which thing needs in virtualization to interact with hypervisor?
+	Ans
+	A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing.
+
+	Q4
+	Do we need an administrator in cloud computing?
+	Ans
+	Yes
+
+	Q5
+	Who handles all the automatic automation for communicating with the hypervisor?
+	Ans
+	Administrator 
+
+	Q6
+	What makes cloud computing different from virtualization?
+	Ans
+	Cloud computing doesn't need hypervisor. 
+
+	Q7
+	How a consumer get self consumed product in cloud computing?
+	Ans
+	Via API 
+
+	Q8
+	What is the one major difference between virtualization and cloud computing?
+	Ans
+	Virtualization can make one resource act like many, while cloud computing lets different departments (through private cloud) or companies (through a public cloud) access a single pool of automatically provisioned resources. 
+
+	Q9
+	What do you mean by hypervisor?
+	Ans
+	A hypervisor is a software that creates and runs virtual machines (VMs). 
+
+	Q10
+	Which one is more flexible, cloud computing or virtualization?
+	Ans
+	Cloud computing is good for selling your service/software to external users, while Virtualization is best for setting up Data centers within the company network/infrastructure.

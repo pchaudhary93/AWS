@@ -1,0 +1,67 @@
+Introduction to the CLOUD COMPUTING 
+To watch each videos you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and draft minimum 10 meaningful Questions having Single Word / Single Line answer for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+On Premise VS Cloud Computing - Pros and Cons Comparison ByEcourse Review
+https://www.youtube.com/watch?v=KVydGQGR1Lo
+
+
+	Q1
+	What is On- Premise Computing? 
+	Ans
+	On-Premise Computing is a type of computing in which all the computing resources are accessed and managed by or from the premises. 
+
+	Q2
+	How the pool of resources are accessed in cloud computing?
+	Ans
+	The pool of resources is accessed online. 
+
+	Q3
+	Who incurred the cost in On-Premise Computing?
+	Ans
+	Over all costs is incurred by the premise that owns it; this translates to diminished returns in the long run. 
+
+	Q4
+	What are the advantages of cloud computing?
+	Ans
+	The advantages of cloud computing: 
+Universal access - Cloud computing services are platform independent; they are accessible across many devices with internet connection. 
+More storage capacity - Cloud computing offers an unlimited storage as long as you can afford it. 
+easy and quick set-up - When using cloud, all you need is to connect to a network (or the Internet). 
+Automatic update
+Cost effective
+
+	Q5
+	What are the disadvantages of cloud computing?
+	Ans
+	The disadvantages of cloud computing are:
+Security risks, Privacy issues, Loss of control, Internet reliance, and Cloud provider reliability.
+
+
+
+	Q6
+	Which computing is cost effective in the long run?
+	Ans
+	In the long run cloud computing is cost effective as compared to on-premises. 
+
+	Q7
+	Explain the more storage capacity as the advantages of cloud computing.
+	Ans
+	More storage capacity - Cloud computing offers an unlimited storage as long as you can afford it. You don’t have to worry about running out of storage. 
+
+	Q8
+	Why a company should decide to move to the cloud?
+	Ans
+	With the advancement of the Internet and increased network bandwidth, business should take advantage of cloud computing. 
+
+	Q9
+	Is cloud computing reduces the overall capital expenditure?
+	Ans
+	It reduces the overall capital expenditure while maximizing efficiency and productivity. 
+
+	Q10
+	If you don’t have internet, you think you can access the cloud?
+	Ans
+	No, you can’t access to the cloud. 
+	________________

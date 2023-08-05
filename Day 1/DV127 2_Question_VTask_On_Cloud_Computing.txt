@@ -1,0 +1,67 @@
+Introduction to the CLOUD COMPUTING 
+To watch each video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and draft minimum 10 meaningful Questions having Single Word / Single Line answer for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+Cloud Computing Overview by Technology Profession
+https://www.youtube.com/watch?v=C0RKwxpgYSs
+
+
+	Q1
+	What does cloud computing do?
+	Ans
+	Cloud computing encompasses a variety of computing concepts that connect a large number of computers to a real-time communications network. 
+
+	Q2
+	Can we say internet and cloud computing are synonymous.
+	Ans
+	The internet and Cloud Computing are synonymous, with the exception of private Cloud networks. 
+
+	Q3
+	What are three most common cloud offerings?
+	Ans
+	The three most common cloud offerings are:
+Infrastructure as a Service
+Platform as a Service
+Software as a Service
+
+	Q4
+	When you store your documents and files online using BOX or Google, it is a example of which cloud offering?
+	Ans
+	This is an example of Infrastructure as a Service. 
+
+	Q5
+	What are the core benefits of cloud computing?
+	Ans
+	Core benefits of Cloud Computing include:
+Cost saving, Elasticity, Scalability, Dynamically adjusts to load bursts, and Storage on demand. 
+
+	Q6
+	Write down some benefits of cloud computing from business point of view.
+	Ans
+	Business benefits are:
+More flexibility to get into new business.
+Smooth mergers and acquisitions.
+Ability to duplicate or adopt successful business process
+Allows IT leadership to focus on the business rather than maintenance.
+Optimizes the communication of business process.
+
+	Q7
+	Is a cloud computing is flexible?
+	Ans
+	Yes, it is flexible. 
+
+	Q8
+	On which thing an individual get access through cloud offerings?
+	Ans
+	PaaS (Platform as a Service)
+
+	Q9
+	Can We leverage Software as a Service anytime?
+	Ans
+	You leverage Software as a Service anytime you use a software application that is accessed via a browser versus a program on your computer. 
+
+	Q10
+	What happen when an individual have a cloud offering?
+	Ans
+	They can access easily on the software using web browser.
