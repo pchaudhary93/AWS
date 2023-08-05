@@ -1,0 +1,59 @@
+Introduction to the AWS (Amazon Web Services)
+To watch each video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and draft minimum 10 meaningful Questions having Single Word / Single Line answer for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+What is AWS? – By Amazon Web Services
+https://www.youtube.com/watch?v=mZ5H8sn_2ZI
+
+
+	Q1
+	What is Amazon Web Service?
+	Ans
+	Amazon Web Service is a subsidiary of Amazon.com that provides on-demand cloud computing platforms to individuals, companies, and governments. 
+
+	Q2
+	What does AWS do?
+	Ans
+	AWS is an online platform providing cost-effective, scalable, cloud computing solutions. 
+
+	Q3
+	What are the features of AWS?
+	Ans
+	The features of AWS are: Powerful data and relationship management, Fully-managed infrastructure, Built-in data encryption, Object policies, etc. 
+
+	Q4
+	What are the tools in AWS?
+	Ans
+	The tools in AWS are: Amazon Corretto, AWS Application Composer, AWS Cloud9, AWS CloudShell, etc. 
+
+	Q5
+	What programming languages are used in AWS?
+	Ans
+	Java and Python are the two most commonly used programming languages in Amazon Web Services (AWS). 
+
+	Q6
+	What are benefits of AWS?
+	Ans
+	The benefits of AWS are: Ease of use, Incredibly diverse array of tools, Unlimited server capacity, Reliable encryption & security, etc. 
+
+	Q7
+	How can you use Amazon web service?
+	Ans
+	You can use AWS by just signing up and paying. 
+
+	Q8
+	When you building applications for colleagues or consumer or for enterprise support What you can find with Amazon Web Services?
+	Ans
+	You can find all the features with Amazon web Services. 
+
+	Q9
+	When you build your database driven application what things are important?
+	Ans
+	Make sure that all the data of that app, including the code, user data, and much more, are safely stored in one place. 
+
+	Q10
+	How it can be easy to work with the data?
+	Ans
+	It can be easy to work with data because it provides on-demand premises. 
+	________________

@@ -1,0 +1,59 @@
+Introduction to the AWS (Amazon Web Services)
+To watch each video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and draft minimum 10 meaningful Questions having Single Word / Single Line answer for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+Cloud Wars: Amazon (AWS) vs. Google (GCP) vs. Microsoft (Azure) by CBT Nuggets
+https://www.youtube.com/watch?v=342KEaxFVjM
+
+
+	Q1
+	How you build a cloud presence in Amazon AWS?
+	Ans
+	The AWS Global Cloud Infrastructure is the most secure, extensive, and reliable cloud platform, offering over 200 fully featured services from data centers. 
+
+	Q2
+	What are the core principle you can run into AWS ?
+	Ans
+	Design principles, definition, best practices, security, data protection, etc. 
+
+	Q3
+	What are the AWS services?
+	Ans
+	The AWS services are: Amazon EC2(Elastic Cloud Compute), Amazon RDS (Relational Database Services), Amazon S3(Simple Storage Service), etc. 
+
+	Q4
+	What is the major service in AWS?
+	Ans
+	Amazon EC2 is one of the fastest-growing cloud computing AWS services, which offers virtual servers to manage any kind of workload. 
+
+	Q5
+	EBS stands for?
+	Ans
+	EBS stands for Elastic Block Store. 
+
+	Q6
+	What are the MS Azure products?
+	Ans
+	The MS Azure products are: Virtual machines, Azure virtual desktop, Azure SQL, App service, etc. 
+
+	Q7
+	What includes in google infrastructure?
+	Ans
+	The infrastructure provides service identity, automatic mutual authentication, encrypted inter-service communication, and enforcement of the access policies that are defined by the service owner. 
+
+	Q8
+	What are the Google Cloud Platform?
+	Ans
+	Google Cloud Platform is a public cloud vendor that offers a suite of computing services to do everything from data management to delivering web and video over the web to AI and machine learning tools. 
+
+	Q9
+	Full form of Azure VMs.
+	Ans
+	Full form of Azure VMs is Azure Virtual Machines. 
+
+	Q10
+	Briefly explain the cloud computing v/s traditional design.
+	Ans
+	Cloud computing relies on the internet and remote servers, while traditional computing uses local hardware and software. 
+	________________

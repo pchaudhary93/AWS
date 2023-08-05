@@ -1,0 +1,61 @@
+Introduction to the AWS (Amazon Web Services)
+
+
+To watch each video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and draft minimum 10 meaningful Questions having Single Word / Single Line answer for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+How AWS Works | AWS Tutorial for Beginners By Linux Academy
+https://www.youtube.com/watch?v=qcY-uiEHhn0
+
+
+	Q1
+	What is amazon web service?
+	Ans
+	Amazon Web Service is a Cloud services provider. 
+
+	Q2
+	Amazon Web Service is also known as?
+	Ans
+	Amazon Web Service is also known as Infrastructure as a Service (IaaS). 
+
+	Q3
+	What things are offered by AWS?
+	Ans
+	The things offered by AWS are: Storage, Computing power, Database, security, etc. 
+
+	Q4
+	How you connect with the cloud?
+	Ans
+	You connect with the cloud using the Internet. 
+
+	Q5
+	What are the common personal uses of the cloud service?
+	Ans
+	The common personal uses of the cloud service are backups and sharing.   
+
+	Q6
+	What do you mean by fault tolerant?
+	Ans
+	Fault tolerance is a process that enables an operating system to respond to a failure in hardware or software. 
+
+	Q7
+	Why an Enterprises use cloud service?
+	Ans
+	Enterprise use cloud service for on-premises. 
+
+	Q8
+	What the term elasticity means?
+	Ans
+	Elasticity, ability of a deformed material body to return to its original shape and size when the forces causing the deformation are removed. 
+
+	Q9
+	Difference between cloud and AWS.
+	Ans
+	Google Cloud platform provides IaaS, PaaS, and serverless computing environments. Amazon Web service(AWS): It provides on-demand cloud computing platforms and APIs. 
+
+	Q10
+	What are main cloud terms?
+	Ans
+	Although many cloud computing types exist, the three most popular ones are SaaS, IaaS, and PaaS. 
+	________________
